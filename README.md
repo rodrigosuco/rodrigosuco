@@ -25,7 +25,7 @@
 # Tech Stack
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=ruby,rails,ts,swift,kotlin,mongo,postgres,redis,docker,aws,neovim" />
+    <img src="https://skillicons.dev/icons?i=ruby,rails,golang,ts,swift,kotlin,mongo,postgres,redis,docker,aws,neovim" />
 </p>
 
 # Connect
